@@ -557,6 +557,7 @@ Benchmark papers are curated in [Data, Representation & Analysis](#2-data-repres
 | Interaction analysis | [Protein-Ligand Interaction Profiler (PLIP)](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) |
 | Molecular weight | [Peptide Molecular Weight Calculator](https://peptidecalculatorpro.org/peptide-molecular-weight-calculator/): average mass, monoisotopic mass, formula and m/z for standard amino acid sequences, with acetylation, amidation and disulfide options. |
 | Charge estimates | [Peptide Net Charge Calculator](https://peptidecalculatorpro.org/peptide-net-charge-calculator/): Henderson-Hasselbalch net charge over pH 0-14, estimated pI and GRAVY using EMBOSS pKa values, with terminal modification options. |
+| Research profile lookup | [Peptide Library API](https://peptidelibrary.app/developers): free REST API (OpenAPI 3.1) and read-only remote MCP server ([docs](https://peptidelibrary.app/developers/mcp)) for peptide research profiles with mechanism and targets, regulatory status and evidence grouped by tier (regulatory, human, animal, in-vitro) with cited sources. Research endpoints need no key; no dosing information. |
 
 ## 1. Reviews
 
